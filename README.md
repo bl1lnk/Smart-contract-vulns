@@ -65,3 +65,6 @@ The 5 parameters following the MethodID are defined as follows:
     [3] This is the first address from the _recievers array used in the batch transfer.
 
     [4] This is the second address from the _recievers array used in the batch transfer.
+Read more 
+
+https://console-cowboys.blogspot.com/2020/08/smart-contract-hacking-chapter-3.html
